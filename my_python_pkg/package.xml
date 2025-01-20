@@ -3,8 +3,8 @@
 <package format="3">
   <name>my_python_pkg</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="ha@todo.todo">ha</maintainer>
+  <description> A sample ROS 2 Python package demonstrating publishers, subscribers, and services.</description>
+  <maintainer email="khanhhado1208@gmail.com">ha</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
