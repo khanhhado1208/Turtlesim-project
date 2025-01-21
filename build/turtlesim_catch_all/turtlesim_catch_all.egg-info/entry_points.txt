@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_controller_catch_points = turtlesim_catch_all.turtle_controller_catch_points:main
+turtle_controller_targetpoint = turtlesim_catch_all.turtle_controller_targetpoint:main

@@ -1,0 +1,32 @@
+[0.977s] Invoking command in '/home/ha/ros2_ws/src/turtlesim_catch_all': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ha/ros2_ws/src/build/turtlesim_catch_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlesim_catch_all build --build-base /home/ha/ros2_ws/src/build/turtlesim_catch_all/build install --record /home/ha/ros2_ws/src/build/turtlesim_catch_all/install.log --single-version-externally-managed install_data
+[1.242s] running egg_info
+[1.260s] writing ../build/turtlesim_catch_all/turtlesim_catch_all.egg-info/PKG-INFO
+[1.260s] writing dependency_links to ../build/turtlesim_catch_all/turtlesim_catch_all.egg-info/dependency_links.txt
+[1.260s] writing entry points to ../build/turtlesim_catch_all/turtlesim_catch_all.egg-info/entry_points.txt
+[1.262s] writing requirements to ../build/turtlesim_catch_all/turtlesim_catch_all.egg-info/requires.txt
+[1.262s] writing top-level names to ../build/turtlesim_catch_all/turtlesim_catch_all.egg-info/top_level.txt
+[1.300s] reading manifest file '../build/turtlesim_catch_all/turtlesim_catch_all.egg-info/SOURCES.txt'
+[1.300s] writing manifest file '../build/turtlesim_catch_all/turtlesim_catch_all.egg-info/SOURCES.txt'
+[1.301s] running build
+[1.301s] running build_py
+[1.301s] copying turtlesim_catch_all/turtle_controller_targetpoint.py -> /home/ha/ros2_ws/src/build/turtlesim_catch_all/build/lib/turtlesim_catch_all
+[1.302s] copying turtlesim_catch_all/turtle_controller_catch_points.py -> /home/ha/ros2_ws/src/build/turtlesim_catch_all/build/lib/turtlesim_catch_all
+[1.302s] copying turtlesim_catch_all/__init__.py -> /home/ha/ros2_ws/src/build/turtlesim_catch_all/build/lib/turtlesim_catch_all
+[1.303s] running install
+[1.306s] running install_lib
+[1.327s] copying /home/ha/ros2_ws/src/build/turtlesim_catch_all/build/lib/turtlesim_catch_all/turtle_controller_targetpoint.py -> /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages/turtlesim_catch_all
+[1.328s] copying /home/ha/ros2_ws/src/build/turtlesim_catch_all/build/lib/turtlesim_catch_all/turtle_controller_catch_points.py -> /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages/turtlesim_catch_all
+[1.328s] copying /home/ha/ros2_ws/src/build/turtlesim_catch_all/build/lib/turtlesim_catch_all/__init__.py -> /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages/turtlesim_catch_all
+[1.329s] byte-compiling /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages/turtlesim_catch_all/turtle_controller_targetpoint.py to turtle_controller_targetpoint.cpython-312.pyc
+[1.330s] byte-compiling /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages/turtlesim_catch_all/turtle_controller_catch_points.py to turtle_controller_catch_points.cpython-312.pyc
+[1.331s] byte-compiling /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages/turtlesim_catch_all/__init__.py to __init__.cpython-312.pyc
+[1.332s] running install_data
+[1.332s] copying resource/turtlesim_catch_all -> /home/ha/ros2_ws/src/install/turtlesim_catch_all/share/ament_index/resource_index/packages
+[1.333s] copying package.xml -> /home/ha/ros2_ws/src/install/turtlesim_catch_all/share/turtlesim_catch_all
+[1.333s] running install_egg_info
+[1.359s] Copying ../build/turtlesim_catch_all/turtlesim_catch_all.egg-info to /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages/turtlesim_catch_all-0.0.0-py3.12.egg-info
+[1.360s] running install_scripts
+[1.499s] Installing turtle_controller_catch_points script to /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/turtlesim_catch_all
+[1.499s] Installing turtle_controller_targetpoint script to /home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/turtlesim_catch_all
+[1.500s] writing list of installed files to '/home/ha/ros2_ws/src/build/turtlesim_catch_all/install.log'
+[1.539s] Invoked command in '/home/ha/ros2_ws/src/turtlesim_catch_all' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ha/ros2_ws/src/build/turtlesim_catch_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ha/ros2_ws/src/install/turtlesim_catch_all/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlesim_catch_all build --build-base /home/ha/ros2_ws/src/build/turtlesim_catch_all/build install --record /home/ha/ros2_ws/src/build/turtlesim_catch_all/install.log --single-version-externally-managed install_data
